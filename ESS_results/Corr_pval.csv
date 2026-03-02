@@ -1,0 +1,9 @@
+"","Left.Right","Immigration","Environment","Social.liberalism","Redistribution","Anti.elitism","EU.integration","Direct.democracy"
+"Left.Right",0,0,0,0,0,0.938,0,0.038
+"Immigration",0,0,0,0.028,0,0,0,0
+"Environment",0,0,0,0.008,0,0.312,0,0.486
+"Social.liberalism",0,0.028,0.008,0,0,0.092,0.148,0.348
+"Redistribution",0,0,0,0,0,0.074,0.916,0
+"Anti.elitism",0.938,0,0.312,0.092,0.074,0,0,0
+"EU.integration",0,0,0,0.148,0.916,0,0,0
+"Direct.democracy",0.038,0,0.486,0.348,0,0,0,0
