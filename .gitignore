@@ -4,6 +4,3 @@ __pycache__
 data/*.csv
 .RData
 .Rhistory
-
-analysis_main_test.ipynb
-plots_test
